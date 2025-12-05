@@ -61,3 +61,12 @@ This project provides analytical insights that help:
 
 ## 📊 Outcomes
 By addressing real-world data issues and applying robust EDA techniques, this project demonstrates practical **data cleaning, analysis, and visualization skills** in the healthcare domain.
+
+<div align="center">
+<table>
+<tr>
+<td><img src="healthcareAnalyticsVisual1.png" width="350" alt="Image 1"></td>
+<td><img src="healthcareAnalyticsVisual2.png" width="350" alt="Image 2"></td>
+</tr>
+</table>
+</div>
