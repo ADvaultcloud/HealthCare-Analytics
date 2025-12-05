@@ -1,0 +1,11 @@
+facility_id,facility_name,facility_type,region,quality_rating,accreditation_status
+c83b3f08-8da7-4a9f-8d15-386c89527830,"Franklin, Burns and Robinson Clinic",Hospital,South,3.6,Pending
+a408af19-d940-42fc-b81c-1fdd6baf0d1e,Smith and Sons Clinic,Specialty Center,East,2.3,Pending
+e00bf1c1-b7e2-4bbd-b6bb-e81b45ec6c82,Singh-Woods Specialty Center,Hospital,East,3.2,Pending
+53fc1a0a-ab5d-45eb-a537-188f8b53cd9d,"Bennett, Crawford and Mcdaniel Clinic",Clinic,South,2.0,Pending
+e0082309-9f56-4ac2-ad15-87237b2f9fb5,Santana Ltd Specialty Center,Hospital,Central,3.8,Unknown
+6649fa24-6939-49db-bc4a-49fa54d53d92,"Hill, Washington and Greer Hospital",Hospital,North,4.0,Pending
+f0336f39-4b2a-4454-8942-df2a3d86d276,"Stanley, Powers and Parker Clinic",Clinic,West,2.0,Unknown
+ea269994-0972-47cf-a6ab-b05409e06da4,Torres Inc Clinic,Hospital,North,3.7,Accredited
+30f564d8-0c7f-4890-b7ab-2be075a1029b,Griffith-Fitzpatrick Hospital,Hospital,East,4.1,Unknown
+eac8ec5b-7db8-4756-af55-9d362034dc83,"Moses, Navarro and Garrison Hospital",Clinic,East,2.6,Pending

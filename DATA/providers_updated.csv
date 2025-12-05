@@ -1,0 +1,51 @@
+provider_id,provider_name,specialty,facility_id,license_status,years_experience
+512ad045-5e81-4348-ad3b-ffa0d334d83e,Hayley Nichols,Pediatrics,ea269994-0972-47cf-a6ab-b05409e06da4,Active,20
+2810c46e-276c-45ff-82d2-505fc6d96eab,Andrea Ball,Oncology,eac8ec5b-7db8-4756-af55-9d362034dc83,Unknown,15
+53e8ebd7-a071-4fab-aa82-76eb6e918610,Rick Sandoval,Cardiology,53fc1a0a-ab5d-45eb-a537-188f8b53cd9d,Active,7
+893e9d28-0e65-4609-af35-9c9d249b0f70,Connor Smith,Neurology,f0336f39-4b2a-4454-8942-df2a3d86d276,Active,7
+e0a4d7ce-ced1-4096-869c-64ef0ac5a168,Michael Sampson,Cardiology,ea269994-0972-47cf-a6ab-b05409e06da4,Unknown,13
+4adcce31-1fa0-4689-82a1-b386ed8c7897,Debra Burton,Oncology,ea269994-0972-47cf-a6ab-b05409e06da4,Active,0
+cd53d7a6-87b3-4d7c-88d1-6cb4ade28d72,Danny Smith,General Practice,6649fa24-6939-49db-bc4a-49fa54d53d92,Active,12
+8470fdc9-5f30-4a2b-8492-949a4c2db747,Deborah Newton,General Practice,30f564d8-0c7f-4890-b7ab-2be075a1029b,Active,7
+fcd5d77a-8f90-4e31-afa0-f4daeadda18d,Gary Carter,Cardiology,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,17
+8cea4409-4463-42ab-990f-5645b5ff3936,Brian Mitchell,Neurology,ea269994-0972-47cf-a6ab-b05409e06da4,Active,2
+825eb330-4b20-4ab9-aa3b-b7de4161a10c,Jordan Flores,Pediatrics,53fc1a0a-ab5d-45eb-a537-188f8b53cd9d,Active,50
+368ba81a-919e-4dc4-b85c-80d7e2c3ae27,Christopher Cox,Pediatrics,e0082309-9f56-4ac2-ad15-87237b2f9fb5,Active,11
+87ff8d86-0f41-487d-ad74-f63028e98549,Joseph Gilmore,Cardiology,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,1
+eb551a9d-5a7e-4da4-b2f3-13b8fde2e5a0,Lisa Allen,Orthopedics,e0082309-9f56-4ac2-ad15-87237b2f9fb5,Active,11
+05e32c49-be90-42a9-8bdf-301e1f1e278a,Joel Garcia,Orthopedics,e00bf1c1-b7e2-4bbd-b6bb-e81b45ec6c82,Active,16
+9e1023cc-53f8-4129-93f1-ab99f15e5a30,Gabriela Baker,Oncology,c83b3f08-8da7-4a9f-8d15-386c89527830,Unknown,14
+5f58f364-d3f4-45b1-bff7-52526b91e1ea,Brenda Rivera,Oncology,30f564d8-0c7f-4890-b7ab-2be075a1029b,Suspended,3
+5e72e01e-c348-48e1-9393-53eacb9dd830,Linda Williams,Oncology,6649fa24-6939-49db-bc4a-49fa54d53d92,Active,3
+a5cf35b4-e37e-4728-a8ac-75842820c754,Melissa Smith,Orthopedics,e00bf1c1-b7e2-4bbd-b6bb-e81b45ec6c82,Active,3
+2f4aa3bb-839a-4696-86d8-671f69e6ff47,Jonathan Smith,Orthopedics,53fc1a0a-ab5d-45eb-a537-188f8b53cd9d,Active,4
+792d8134-f6f5-4786-8eff-b23fdf5f3c5b,Eric Campbell,Cardiology,e0082309-9f56-4ac2-ad15-87237b2f9fb5,Active,5
+639b58e3-d9ed-408b-97e4-cb98455c887f,Joann Mcdonald PhD,Pediatrics,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,20
+80a5c85c-1b72-4f16-90f6-919049f136a8,Stephen Hall,Pediatrics,ea269994-0972-47cf-a6ab-b05409e06da4,Active,10
+26f99fe7-ce2d-439c-ae7c-1e52d9f2714b,Melissa Brown,General Practice,c83b3f08-8da7-4a9f-8d15-386c89527830,Active,16
+353a35d0-4c14-4acb-b113-e2bff52aa766,Daniel Michael,Cardiology,30f564d8-0c7f-4890-b7ab-2be075a1029b,Active,27
+daab782b-e974-4997-9d12-2b3d06fc23d4,Benjamin Johnson,Cardiology,f0336f39-4b2a-4454-8942-df2a3d86d276,Active,41
+815fa9a4-dff2-416a-80b5-4d1f4feb0440,Matthew Mccoy,Pediatrics,30f564d8-0c7f-4890-b7ab-2be075a1029b,Active,7
+a1ef137a-95da-49f9-8f0c-1ae917ede810,Michele Freeman,Neurology,eac8ec5b-7db8-4756-af55-9d362034dc83,Active,9
+c47ffeb6-6497-4c77-bc0a-d67f4e1527ce,Alex Mason,Cardiology,f0336f39-4b2a-4454-8942-df2a3d86d276,Active,2
+23f12850-7986-4123-b79f-2a1825317e6a,Joyce Elliott,Oncology,e00bf1c1-b7e2-4bbd-b6bb-e81b45ec6c82,Active,6
+7503cdc1-6c6c-4327-8704-bd500dbf6539,Stephanie Warner,General Practice,6649fa24-6939-49db-bc4a-49fa54d53d92,Active,7
+55d136be-7b9f-4799-939d-0f056675597d,Jennifer Coleman,Oncology,6649fa24-6939-49db-bc4a-49fa54d53d92,Unknown,11
+5cc41ec5-2cc5-4d63-9101-1c8524692a7d,Lisa Brennan,Oncology,f0336f39-4b2a-4454-8942-df2a3d86d276,Active,0
+fdeee50c-6668-4d20-975b-924037030824,Nicholas Martin,General Practice,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,25
+d2fb9bf4-3e31-4a3a-8d1c-a18cc99d5909,Madison Foley,Cardiology,30f564d8-0c7f-4890-b7ab-2be075a1029b,Active,16
+66a10ff2-6aec-4846-84cd-219569af55ad,Karen Castro,General Practice,e0082309-9f56-4ac2-ad15-87237b2f9fb5,Active,18
+b883bf79-3e05-4178-995b-7fcb00a7d225,Natalie Garcia,Cardiology,6649fa24-6939-49db-bc4a-49fa54d53d92,Active,20
+dec7e6b2-6bd8-4e18-bb9c-b1e48613e5d6,Emily Edwards,Oncology,eac8ec5b-7db8-4756-af55-9d362034dc83,Active,5
+44d46f0b-bd05-4c2a-9522-4c8b670c1aee,Marissa Hickman,General Practice,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,11
+6fe56e2a-a615-4f4e-9bc1-b5dbaec85566,Chad Bennett,Orthopedics,6649fa24-6939-49db-bc4a-49fa54d53d92,Unknown,6
+7e02e87a-bf76-45e1-8d75-dae68d0b3e94,Sierra Coleman,Pediatrics,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,13
+82a40b72-451e-4794-9aea-d63ec6f27b25,David Palmer,General Practice,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Suspended,3
+df2770fb-3573-4153-9432-b9de016b608a,Adam Yoder,Neurology,e00bf1c1-b7e2-4bbd-b6bb-e81b45ec6c82,Active,30
+d73de7b6-a168-4bdf-9c03-0fd4a627d142,Emily Shepard,Pediatrics,e0082309-9f56-4ac2-ad15-87237b2f9fb5,Active,5
+94d26f91-8d53-498e-aa74-f51fb7f7eafc,Martin Middleton,Pediatrics,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,3
+b897e179-257c-4fe5-aab3-7e555a481f6b,Mrs. Tammy Sandoval,Oncology,30f564d8-0c7f-4890-b7ab-2be075a1029b,Unknown,0
+9283433d-8b3c-49fd-ad60-4f8af47e7835,Patrick Mitchell,Pediatrics,53fc1a0a-ab5d-45eb-a537-188f8b53cd9d,Active,33
+64047277-b971-48da-a5dc-1c6c435993c4,Gregory Rodriguez,Neurology,53fc1a0a-ab5d-45eb-a537-188f8b53cd9d,Active,0
+356890c6-cda2-48cf-b6d2-bf3203068dbc,Patricia Gamble,Orthopedics,30f564d8-0c7f-4890-b7ab-2be075a1029b,Suspended,7
+c791acee-551b-46d6-8fea-6fd13a32d0a9,Paul Kidd DDS,General Practice,a408af19-d940-42fc-b81c-1fdd6baf0d1e,Active,12
